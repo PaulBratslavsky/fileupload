@@ -1,4 +1,3 @@
-const _ = require("lodash");
 const validateUploadBody = require("./validation/upload");
 
 const getService = (name) => {
